@@ -162,7 +162,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Kyle",
     img: "chara_rune2_1.png",
     opts: {
-      school: ["rf2g1"],
+      game: ["rf2g1"],
       protag: true,
       notgirl: true
     }
@@ -171,7 +171,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Aaron",
     img: "chara_rune2_9.png",
     opts: {
-      school: ["rf2g2"],
+      game: ["rf2g2"],
       protag: true,
       notgirl: true
     }
@@ -180,7 +180,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Aria",
     img: "chara_rune2_10.png",
     opts: {
-      school: ["rf2g2"],
+      game: ["rf2g2"],
       protag: true,
       notboy: true
     }
@@ -247,7 +247,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Sera",
     img: "chara_rune2_11.png",
     opts: {
-      school: ["rf2g2"],
+      game: ["rf2g2"],
       notboy: true
     }
   },
@@ -255,7 +255,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Serena",
     img: "chara_rune2_11.png",
     opts: {
-      school: ["rf2g2"],
+      game: ["rf2g2"],
       notboy: true
     }
   },
@@ -263,7 +263,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Orland",
     img: "chara_rune2_12.png",
     opts: {
-      school: ["rf2g2"],
+      game: ["rf2g2"],
       notgirl: true
     }
   },
@@ -271,14 +271,14 @@ dataSet[dataSetVersion].characterData = [
     name: "Leonel",
     img: "chara_rune2_13.png",
     opts: {
-      school: ["rf2g2"],
+      game: ["rf2g2"],
       notgirl: true
     }
   },  {
     name: "Leann",
     img: "chara_rune2_14.png",
     opts: {
-      school: ["rf2g2"],
+      game: ["rf2g2"],
       notboy: true
     }
   },
@@ -286,7 +286,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Roy",
     img: "chara_rune2_15.png",
     opts: {
-      school: ["rf2g2"],
+      game: ["rf2g2"],
       notgirl: true
     }
   },
@@ -294,7 +294,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Cammy",
     img: "chara_rune2_16.png",
     opts: {
-      school: ["rf2g2"],
+      game: ["rf2g2"],
       notboy: true
     }
   },
